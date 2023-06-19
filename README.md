@@ -1,2 +1,2 @@
-# PIg-Game
+# Pig-Game
 Pig-Game(Rolling Dice)
